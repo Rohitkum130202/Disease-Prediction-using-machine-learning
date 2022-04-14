@@ -1,4 +1,3 @@
-# Disease-Prediction-using-machine-learning
 # Diseaseprediction
 
 Disease prediction from symptoms.
